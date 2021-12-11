@@ -10,7 +10,7 @@ namespace asp.net.mvc_lesson1._1
     {
         static void Main(string[] args)
         {
-
+          
 
 
 

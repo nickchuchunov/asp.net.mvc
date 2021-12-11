@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\asp.net.mvc_lesson1.1\asp.net.mvc_lesson1.1.csproj">
+      <Project>{a9495df1-3a65-43eb-8635-28a8cd980265}</Project>
+      <Name>asp.net.mvc_lesson1.1</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
