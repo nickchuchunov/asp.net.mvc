@@ -1,0 +1,15 @@
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.exe.config
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.exe
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.pdb
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.csproj.AssemblyReference.cache
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.csproj.CoreCompileInputs.cache
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.exe
+H:\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.pdb
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.exe.config
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.exe
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\bin\Debug\asp.net.mvc_lesson1.1.pdb
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.csproj.AssemblyReference.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.csproj.SuggestedBindingRedirects.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.csproj.CoreCompileInputs.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.exe
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson1\asp.net.mvc_lesson1\asp.net.mvc_lesson1.1\obj\Debug\asp.net.mvc_lesson1.1.pdb

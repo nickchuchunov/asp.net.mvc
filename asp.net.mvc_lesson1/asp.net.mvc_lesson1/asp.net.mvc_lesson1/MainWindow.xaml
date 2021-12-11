@@ -4,9 +4,15 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:asp.net.mvc_lesson1"
+        xmlns:lesson1._1="asp.net.mvc_lesson1._1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="Button1" Content="Button" HorizontalAlignment="Left" Margin="338,271,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.038,-2.445" Click="click1" />
+        <TextBox x:Name="TexBox1" HorizontalAlignment="Left" Height="23" Margin="177,165,0,0" TextWrapping="Wrap" Text="Введите количество элементов числового ряда вибонначи" VerticalAlignment="Top" Width="386"  />
+        <TextBox x:Name="TexBox2" HorizontalAlignment="Left" Height="119" Margin="177,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="386" Text="Сдесь отаброзится числовой ряд" />
+        <TextBox x:Name="TexBox3" HorizontalAlignment="Left" Height="23" Margin="195,224,0,0" TextWrapping="Wrap" Text="Введите задержку числового ряда в милесекундах " VerticalAlignment="Top" Width="368"/>
+
+
     </Grid>
 </Window>
