@@ -71,14 +71,26 @@ namespace asp.net.mvc_lesson1
                    // Thread t1 = new Thread(() =>
                    // {
 
+
+                    void f() 
+                    {
                         while ((lengthFib != fibonacci.Numbers.Length))
 
                         {
-                           
+
                             TexBox2.Text = fibonacci.Numbers;
                             lengthFib = fibonacci.Numbers.Length;
-                            
+
                         }
+
+
+
+
+                    }
+
+
+
+                    Task.Run(() => f());
 
                   //  });
 

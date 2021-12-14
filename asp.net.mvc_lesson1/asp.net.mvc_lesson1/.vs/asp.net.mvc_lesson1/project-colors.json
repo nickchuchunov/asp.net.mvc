@@ -5,7 +5,12 @@
       "ProjectGuid": "a9495df1-3a65-43eb-8635-28a8cd980265",
       "DisplayName": "asp.net.mvc_lesson1.1",
       "ColorIndex": 0
+    },
+    "f9745f97-faee-4325-a67a-1e4d55bc7d8c": {
+      "ProjectGuid": "f9745f97-faee-4325-a67a-1e4d55bc7d8c",
+      "DisplayName": "asp.net.mvc_lesson1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
