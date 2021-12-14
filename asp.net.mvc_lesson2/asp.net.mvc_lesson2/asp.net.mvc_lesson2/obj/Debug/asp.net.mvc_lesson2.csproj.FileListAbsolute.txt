@@ -1,0 +1,8 @@
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\obj\Debug\asp.net.mvc_lesson2.csproj.AssemblyReference.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\obj\Debug\asp.net.mvc_lesson2.csproj.SuggestedBindingRedirects.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\obj\Debug\asp.net.mvc_lesson2.csproj.CoreCompileInputs.cache
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\bin\Debug\asp.net.mvc_lesson2.exe.config
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\bin\Debug\asp.net.mvc_lesson2.exe
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\bin\Debug\asp.net.mvc_lesson2.pdb
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\obj\Debug\asp.net.mvc_lesson2.exe
+L:\Учеба\homeworkcnn10\asp.net.mvc_lesson2\asp.net.mvc_lesson2\asp.net.mvc_lesson2\obj\Debug\asp.net.mvc_lesson2.pdb
