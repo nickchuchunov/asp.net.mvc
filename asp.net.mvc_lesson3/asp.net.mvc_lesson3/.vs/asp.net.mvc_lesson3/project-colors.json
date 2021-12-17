@@ -5,6 +5,11 @@
       "ProjectGuid": "49618f1e-a499-4cb2-8fb8-d49ab3204136",
       "DisplayName": "asp.net.mvc_lesson3",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

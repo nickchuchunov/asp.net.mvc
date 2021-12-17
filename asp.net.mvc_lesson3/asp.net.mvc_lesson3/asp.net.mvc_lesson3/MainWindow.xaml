@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="67,71,0,0" TextWrapping="Wrap" Text="Введите текст для преобразования в заглавные буквы" VerticalAlignment="Top" Width="425" Grid.Column="1"/>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Margin="67,131,0,0" TextWrapping="Wrap" Text="Сдесь появится преобразованный текст " VerticalAlignment="Top" Width="425" Grid.Column="1"/>
+        <Button  x:Name ="Button1" Content="Преобразовать" HorizontalAlignment="Left" Margin="224,242,0,0" VerticalAlignment="Top" Grid.Column="1" Click="clic1"/>
 
     </Grid>
 </Window>

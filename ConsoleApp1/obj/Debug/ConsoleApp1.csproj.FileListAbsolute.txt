@@ -1,0 +1,8 @@
+L:\Учеба\homeworkcnn10\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+L:\Учеба\homeworkcnn10\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+L:\Учеба\homeworkcnn10\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+L:\Учеба\homeworkcnn10\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+L:\Учеба\homeworkcnn10\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+L:\Учеба\homeworkcnn10\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+L:\Учеба\homeworkcnn10\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+L:\Учеба\homeworkcnn10\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
