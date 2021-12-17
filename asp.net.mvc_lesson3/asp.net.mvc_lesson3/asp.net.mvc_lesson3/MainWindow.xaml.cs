@@ -22,7 +22,43 @@ namespace asp.net.mvc_lesson3
     {
         public MainWindow()
         {
+           
             InitializeComponent();
         }
+
+
+
+        /// <summary>
+        /// В методе вызывается делега - реализация патерна фабричных методов
+        /// </summary>
+        /// <param name="sender"> для соответвие требуемому типу делегата </param>
+        /// <param name="e">для соответвие требуемому типу делегата</param>
+
+        void clic1(object sender, RoutedEventArgs e)
+        {
+
+            StringConverter.StringCreate t = new StringConverter.StringCreate(new StringConverter().LargeCharacters);
+
+
+            TextBox2.Text=t(TextBox1.Text);
+
+
+        }
+
+
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
