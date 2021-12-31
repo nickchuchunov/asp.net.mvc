@@ -1,0 +1,2 @@
+L:\Учеба\asp.net.mvc_lesson3.pdb
+L:\Учеба\asp.net.mvc_lesson3.exe
