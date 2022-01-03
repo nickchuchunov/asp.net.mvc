@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "6oBpz1nAMI3orShAtbnDEEW/TLrBrmylVHdcXPCSESUTLtYl5iIlzq3N0YlOtpPh++0nErGig5lYPnYAkPyC0A==",
+  "dgSpecHash": "7Yd3HWBQW8S0lyZRSzYmmB8jnmQXOY7xKrFaBiUUvYVdM/vFv7to0lD2c50IR7nhmRFOnsARHmd9EELZEqxOng==",
   "success": true,
   "projectFilePath": "H:\\homeworkcnn10\\asp.net.mvc_lesson5\\asp.net.mvc_lesson5\\asp.net.mvc_lesson5\\asp.net.mvc_lesson5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.applicationinsights\\2.20.0\\microsoft.applicationinsights.2.20.0.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.logging.applicationinsights\\2.20.0\\microsoft.extensions.logging.applicationinsights.2.20.0.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
