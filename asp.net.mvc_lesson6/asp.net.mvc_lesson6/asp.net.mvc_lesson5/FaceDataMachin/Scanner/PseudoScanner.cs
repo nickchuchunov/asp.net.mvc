@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
 
-namespace asp.net.mvc_lesson5.Task1
+namespace asp.net.mvc_lesson6
 {
     internal class PseudoScanner
     {
@@ -16,7 +16,7 @@ namespace asp.net.mvc_lesson5.Task1
         /// </summary>
         /// <param name="file">адрес расположения файла с данными для сканера</param>
         /// <returns> возвращает десериализованные данные в формате FaceData </returns>
-        internal IList<FaceData> ReadingPseudoScanner(string file)
+        internal IList<FaceData> ReadingPseudoScanner(string file= @"H:\homeworkcnn10\asp.net.mvc_lesson6")
         {
             string[] jsonString = File.ReadAllLines(file);
 

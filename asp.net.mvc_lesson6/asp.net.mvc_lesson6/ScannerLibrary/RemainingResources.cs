@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Linq.Expressions;
 using System.Text.Json;
-using asp.net.mvc_lesson5.Task1;
+
 
 namespace ScannerLibrary
 {

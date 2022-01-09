@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 using System.IO;
 using System;
 
-namespace asp.net.mvc_lesson5.Task1
+namespace asp.net.mvc_lesson6
 {
     internal class FaceDataMachin
     {
@@ -15,7 +15,7 @@ namespace asp.net.mvc_lesson5.Task1
         /// </summary>
         /// <param name="FileLocation"> адрес файла для записи фейковых данных</param>
         /// <param name="count"> количество замеров</param>
-        internal void FaceDataMachinGenerator(string FileLocation, int count)
+        internal void FaceDataMachinGenerator(string FileLocation = @"H:\homeworkcnn10\asp.net.mvc_lesson6", int count=100)
         {
             Random random = new Random();
 

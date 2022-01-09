@@ -3,3 +3,8 @@ H:\homeworkcnn10\asp.net.mvc_lesson5\asp.net.mvc_lesson5\ScannerLibrary\obj\Debu
 H:\homeworkcnn10\asp.net.mvc_lesson5\asp.net.mvc_lesson5\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.AssemblyInfoInputs.cache
 H:\homeworkcnn10\asp.net.mvc_lesson5\asp.net.mvc_lesson5\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.AssemblyInfo.cs
 H:\homeworkcnn10\asp.net.mvc_lesson5\asp.net.mvc_lesson5\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.csproj.CoreCompileInputs.cache
+H:\homeworkcnn10\asp.net.mvc_lesson6\asp.net.mvc_lesson6\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.csproj.AssemblyReference.cache
+H:\homeworkcnn10\asp.net.mvc_lesson6\asp.net.mvc_lesson6\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\homeworkcnn10\asp.net.mvc_lesson6\asp.net.mvc_lesson6\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.AssemblyInfoInputs.cache
+H:\homeworkcnn10\asp.net.mvc_lesson6\asp.net.mvc_lesson6\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.AssemblyInfo.cs
+H:\homeworkcnn10\asp.net.mvc_lesson6\asp.net.mvc_lesson6\ScannerLibrary\obj\Debug\net6.0\ScannerLibrary.csproj.CoreCompileInputs.cache

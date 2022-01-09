@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace asp.net.mvc_lesson5.Task1
+namespace asp.net.mvc_lesson6
 {
 
     /// <summary>
